@@ -8,6 +8,11 @@ body {
   color: #FFCC00;
 }
 
+.paper {
+  background-color: #F8ECC2;
+  color: #5d4b34;
+}
+
 .header {
   font-size: xx-large;
   font-family: Helvetica, Arial, sans-serif;
@@ -17,8 +22,6 @@ body {
   text-align: center;
   font-size: large;
   font-family: "Palatino Linotype", Palatino, "Book Antiqua", Georgia, serif;
-  background-color: #F8ECC2;
-  color: #5d4b34;
 }
 
 .content .title {

@@ -1,9 +1,11 @@
 /* Dropdown Button */
 .dropbtn {
-  padding: 3px;
+  padding: 4px;
   font-size: 16px;
   border: none;
   cursor: pointer;
+  vertical-align: top;
+
 }
 
 /* Dropdown button on hover & focus */
