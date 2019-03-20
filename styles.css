@@ -1,0 +1,41 @@
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.eu {
+  background-color: #003399;
+  color: #FFCC00;
+}
+
+.paper {
+  background-color: #F8ECC2;
+  color: #5d4b34;
+}
+
+.header {
+  padding: 12px;
+  text-align: center;
+  font-size: small;
+  font-family: "Cormorant", "Palatino Linotype", Palatino, "Book Antiqua", Georgia, serif;
+  /*font-family: "Frank Ruhl Libre", Helvetica, Arial, sans-serif;*/
+}
+
+.pagenum {
+  position: fixed;
+  top: 0px;
+  right: 20px;
+}
+
+.content {
+  text-align: center;
+  font-size: large;
+  font-family: "Cormorant", "Palatino Linotype", Palatino, "Book Antiqua", Georgia, serif;
+}
+
+.content .title {
+  font-size: xx-large;
+  padding: 10px;
+}
+
+
