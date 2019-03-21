@@ -1,6 +1,5 @@
 body {
   margin: 0;
-  font-family: Arial, Helvetica, sans-serif;
 }
 
 .eu {
@@ -11,16 +10,57 @@ body {
 .paper {
   background-color: #F8ECC2;
   color: #3a2d1c;
+  font-family: "Cormorant", "Palatino Linotype", Palatino, "Book Antiqua", Georgia, serif;
+  text-align: center;
 }
 
 .header {
   padding: 12px;
-  text-align: center;
   font-size: small;
-  font-family: "Cormorant", "Palatino Linotype", Palatino, "Book Antiqua", Georgia, serif;
-  /*font-family: "Frank Ruhl Libre", Helvetica, Arial, sans-serif;*/
 }
 
+.fronttitle {
+  padding: 12px;
+  text-align: center;
+  font-family: "Tangerine", cursive;
+  font-size: 64px;
+}
+
+.subtitle {
+  padding: 24px;
+  text-align: center;
+  font-size: large;
+}
+
+.blurb{
+  padding: 24px;
+  font-size: small;
+}
+
+.toc{
+  padding: 24px;
+  font-size: larger;
+  text-decoration: none;
+
+}
+
+.toc a:link {color: #3a2d1c}
+.toc a:visited {color: #3a2d1c}
+.toc a:link {
+  text-decoration: none;
+}
+
+.toc a:visited {
+  text-decoration: none;
+}
+
+.toc a:hover {
+  text-decoration: underline;
+}
+
+.toc a:active {
+  text-decoration: underline;
+}
 .pagenum {
   position: fixed;
   top: 0px;
