@@ -18,7 +18,7 @@
   left: 0;
   display: inline-block;
   text-align: left;
-    font-family: "Frank Ruhl Libre", Helvetica, Arial, sans-serif;
+  font-family: "Frank Ruhl Libre", Helvetica, Arial, sans-serif;
 }
 
 /* Dropdown Content (Hidden by Default) */
@@ -28,6 +28,8 @@
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
   z-index: 1;
   font-size: large;
+  height:2500px;
+  overflow-y:scroll;
 }
 
 /* Links inside the dropdown */
